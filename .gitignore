@@ -39,6 +39,9 @@ docker-compose.override.yml
 # DAPR
 .dapr/
 
+# Claude Code
+.claude/
+
 # Temporary files
 *.tmp
 *.temp
